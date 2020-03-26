@@ -1,3 +1,6 @@
+#### vscode 配置
+
+```
 {
 "editor.tabSize": 2,
 "eslint.autoFixOnSave": true,
@@ -51,3 +54,26 @@
 "source.fixAll.eslint": true
 }
 }
+```
+
+#### vscode 插件：
+
+- beautify css/sass/scss/less
+
+- chinese
+
+- EasyMock-Mock server
+
+- ESlint
+
+- GitLens
+
+- MDX
+
+- Path Intellisense
+
+- prettier - Code formatter
+
+- Vutur
+
+- view In Browser // 打开浏览器预览
